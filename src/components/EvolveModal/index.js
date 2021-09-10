@@ -160,7 +160,7 @@ const EvolveModal = ({
         console.log("error undefined finnie")
         return false  
       }
-      console.log({extensionObj})
+      // console.log({extensionObj})
       return true
       // Is it connected?
       // let res = await extensionObj.getPermissions();
