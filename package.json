@@ -28,6 +28,7 @@
 		"react-icons": "^4.2.0",
 		"react-lazy-load-image-component": "^1.5.1",
 		"react-number-format": "^4.7.3",
+		"react-responsive-carousel": "^3.2.21",
 		"react-router-dom": "^5.2.0",
 		"react-scripts": "4.0.3",
 		"react-share": "^4.4.0",
